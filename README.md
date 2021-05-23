@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on own project...
 - 📫 How to reach me ...
 - I like play video games too.
+- I stydy at unus.
+- 
 
 <!---
 Oleksandr435/Oleksandr435 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
