@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Unity, C#, git..
 - 💞️ I’m looking to collaborate on own project...
 - 📫 How to reach me ...
+- I like play video games too.
 
 <!---
 Oleksandr435/Oleksandr435 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
